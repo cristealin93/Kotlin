@@ -10,6 +10,6 @@ fun test(hi:String, vararg name:String) {
 fun main() {
 
 val person=Person()
-    person.unTest()
+   // person.unTest()
     //person.nickName
 }
